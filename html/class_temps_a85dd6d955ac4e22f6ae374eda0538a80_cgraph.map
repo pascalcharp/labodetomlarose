@@ -1,0 +1,4 @@
+<map id="Temps::asgHeure" name="Temps::asgHeure">
+<area shape="rect" id="node1" title="Assigne l&#39;heure à l&#39;objet temps après validation." alt="" coords="5,5,140,32"/>
+<area shape="rect" id="node2" href="$class_temps.html#a43a57061080164986170fb498fc320b3" title="Cette méthode étant statique n&#39;utilisa pas d&#39;objet Temps. Elle s&#39;occupe de faire la validation d&#39;un n..." alt="" coords="188,5,344,32"/>
+</map>

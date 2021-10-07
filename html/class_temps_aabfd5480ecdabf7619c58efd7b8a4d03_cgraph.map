@@ -1,0 +1,7 @@
+<map id="Temps::asgValeurs" name="Temps::asgValeurs">
+<area shape="rect" id="node1" title="Assigne des valeurs à un objet temps tout en validant les valeurs reçues en paramètres...." alt="" coords="5,56,148,83"/>
+<area shape="rect" id="node2" href="$class_temps.html#a85dd6d955ac4e22f6ae374eda0538a80" title="Assigne l&#39;heure à l&#39;objet temps après validation." alt="" coords="204,5,339,32"/>
+<area shape="rect" id="node4" href="$class_temps.html#a3f4d392d29397f3a542617088dba349b" title="Assigne les minutes à l&#39;objet temps après validation." alt="" coords="201,56,341,83"/>
+<area shape="rect" id="node5" href="$class_temps.html#afe6412994ca7e151e3e035b4a1e0ae76" title="Assigne les secondes à l&#39;objet temps après validation." alt="" coords="196,107,347,133"/>
+<area shape="rect" id="node3" href="$class_temps.html#a43a57061080164986170fb498fc320b3" title="Cette méthode étant statique n&#39;utilisa pas d&#39;objet Temps. Elle s&#39;occupe de faire la validation d&#39;un n..." alt="" coords="395,5,551,32"/>
+</map>

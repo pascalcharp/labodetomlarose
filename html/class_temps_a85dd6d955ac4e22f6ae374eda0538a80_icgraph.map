@@ -1,0 +1,5 @@
+<map id="Temps::asgHeure" name="Temps::asgHeure">
+<area shape="rect" id="node1" title="Assigne l&#39;heure à l&#39;objet temps après validation." alt="" coords="196,31,331,57"/>
+<area shape="rect" id="node2" href="$class_temps.html#aabfd5480ecdabf7619c58efd7b8a4d03" title="Assigne des valeurs à un objet temps tout en validant les valeurs reçues en paramètres...." alt="" coords="5,5,148,32"/>
+<area shape="rect" id="node3" href="$class_temps.html#a8c095cefefbb8098e793d1a09afa7484" title="Cette méthode membre de la classe Temps permet de faire l&#39;incémentation d&#39;une seconde à l&#39;objet temps..." alt="" coords="33,56,121,83"/>
+</map>
