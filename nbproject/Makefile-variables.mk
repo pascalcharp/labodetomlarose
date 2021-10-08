@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-Linux
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux
-CND_ARTIFACT_NAME_Debug=labo5
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/labo5
+CND_ARTIFACT_NAME_Debug=gif-1003_lab6
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/gif-1003_lab6
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux/package
-CND_PACKAGE_NAME_Debug=labo5.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/labo5.tar
+CND_PACKAGE_NAME_Debug=gif-1003lab6.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/gif-1003lab6.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-Linux
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-Linux
-CND_ARTIFACT_NAME_Release=labo5
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/labo5
+CND_ARTIFACT_NAME_Release=gif-1003_lab6
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/gif-1003_lab6
 CND_PACKAGE_DIR_Release=dist/Release/GNU-Linux/package
-CND_PACKAGE_NAME_Release=labo5.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/labo5.tar
+CND_PACKAGE_NAME_Release=gif-1003lab6.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/gif-1003lab6.tar
 #
 # include compiler specific variables
 #

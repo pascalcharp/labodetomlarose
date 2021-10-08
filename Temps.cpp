@@ -9,6 +9,7 @@
 #include "Temps.h"
 #include <ostream>
 #include <iomanip>
+#include <iostream>
 
 using namespace std;
 
@@ -29,7 +30,9 @@ Temps::Temps()
     m_seconde = mes_infos -> tm_sec;
     
     //Une fois l'objet crée on ajoute 1 au compteur instances Temps.
+    
     m_nb_instances++;
+    cout << "Constructeur défaut: " << m_nb_instances << endl ; 
 }
 
 /**
@@ -44,6 +47,7 @@ Temps::Temps()
 Temps::Temps(int p_heure, int p_minute, int p_seconde) : m_heure(p_heure), m_minute(p_minute), m_seconde(p_seconde)
 {
     m_nb_instances++;
+    cout << "Constructeur paramétrique: " << m_nb_instances << endl ; 
 }
 
 /**
@@ -224,5 +228,6 @@ ostream& operator <<(std::ostream& p_os, const Temps& p_temps)
 Temps::~Temps()
 {
     m_nb_instances--;
+    cout << "Destructeur: " << m_nb_instances << endl ; 
 }
 
